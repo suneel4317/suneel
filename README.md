@@ -1,7 +1,7 @@
-[![MasterHead](https://www.anblicks.com/blog/5-key-techniques-to-improve-devsecops-implementation)](https://rishavchanda.io)
+<[![MasterHead](https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-cs-way.gif?width=1322&name=devops-cs-way.gif)]>
 <h1 align="center">Hi 👋, I'm suneel kumar 🌀 from India</h1>
 <h3 align="center">The DevOps Guy who ♥ automating stuff</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="right" alt="Coding" width="400" src="https://www.darwinrecruitment.com/wp-content/uploads/2022/03/About-us-Temp-to-Perm.gif">
 
 
 - 🔭 I’m currently working in **Suphla as DevOps Engineer**
