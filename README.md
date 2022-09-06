@@ -1,4 +1,4 @@
-![MasterHead](https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-cs-way.gif?width=1322&name=devops-cs-way.gif)
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--X8Q59V5M--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif)
 <h1 align="center">Hi 👋, I'm suneel kumar 🌀 from India</h1>
 <h3 align="center">The DevOps Guy who ♥ automating stuff</h3>
 <img align="right" alt="Coding" width="400" src="https://www.darwinrecruitment.com/wp-content/uploads/2022/03/About-us-Temp-to-Perm.gif">
